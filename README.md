@@ -2,7 +2,7 @@
 
 Creating different styles for Floating Action Buttons (```values\styles```).
 
-### Please check code for details.
+### Please check styles folder for details.
 
 ## Visual result:
 <p align = "center">
